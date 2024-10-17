@@ -1,0 +1,9 @@
+# Toast editor
+
+npm install --save @toast-ui/editor
+
+## publish
+
+npm login
+
+npm publish
